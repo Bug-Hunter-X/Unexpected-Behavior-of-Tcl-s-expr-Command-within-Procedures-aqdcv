@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in Tcl related to the interaction between variable substitution, the expr command, and conditional expressions within procedures. The bug.tcl file showcases the problematic code, while bugSolution.tcl provides a corrected version. The issue highlights a subtle aspect of Tcl's evaluation mechanism that can be easily overlooked.
